@@ -1,0 +1,6 @@
+/*
+ENTETE
+
+*/
+
+init
